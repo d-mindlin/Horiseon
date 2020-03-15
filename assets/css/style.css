@@ -58,6 +58,7 @@ p {
     background-position: center;
 }
 
+/* style body content*/
 .content {
     width: 75%;
     display: inline-block;
@@ -79,13 +80,12 @@ p {
     padding: 20px;
 }
 
-
-
 .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* style sidebar content*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -109,6 +109,7 @@ p {
     max-width: 150px;
 }
 
+/* style footer content*/
 .footer {
     padding: 30px;
     clear: both;
